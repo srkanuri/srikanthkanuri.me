@@ -4,43 +4,40 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a Graduate Student (Masters) in Computer Science at Indiana University, Bloomington. I am in my final semester and am currently seeking Full Time positions in Software. I have a Bachelors in Computer Science and Engineering and also have over 5 years of experience in Software where I worked on several development and support projects. </p>
+<p>I am comfortable with Java, Python, SQL, Scheme, Haskell, C, C++, PHP, BPEL, etc. I am very interested in the study of Compilers, Operating Systems, Programming Languages since they are primary abstractions which enable any programmer to innovate without having to deal with the details of implementation and thereby implementing their train of thought.</p>
+<p>I am looking forward to a career in Software where I can continue learning for the rest of my life and also utilize my skills to make contributions or create tools and applications which will provide abstractions to users and enable them to be more productive.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li> Programming Lamguages
+		 <li> Advanced: Java, Python, C, SQL, PL/SQL, Racket, Scheme</li>
+		 <li> Comfortable: C++, Javascript, BPEL, HTML, CSS, PHP</li>
+		 <li> Beginner: Scala, CUDA, Go, Angular JS, Haskell, Typescript </li>		
+	</li>
+	<li>Applications
+		<li> Advanced: Denodo, Oracle</li>
+		<li> Comfortable: Amazon Web Service, Git, Tableau, MySQL, Oracle SOA Suite, MongoDB, Travis</li>
+		<li> Beginner: Docker, Jenkins, Perforce, TFS, Ansible, Chef</li>
+	</li>
+	<li>IDE
+		<li> Advanced: Emacs, Sublime, Eclipse, Jdeveloper, SQL Developer</li>
+		<li> Comfortable: Vim, Visual Studio, Netbeans, Intellij, PyCharm</li>
+		<li> Beginner: Leksah, Atom</li>		
+	</li>
+	<li>Frameworks
+		<li> Advanced: Oracle Application Framework, MVC</li>
+		<li> Comfortable: Django, Struts, Spring, Hiberinate</li>
+		<li> Beginner: Application Development Framework</li>	
+	</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/ParkItEasy">Park It Easy</a></li>
+	<li><a href="https://github.com/AI-Projects">Artificial Intelligence Projects</a></li>
+	<li><a href="https://github.com/Racket-Compiler">Racket Compiler</a></li>
+	<li><a href="https://github.com/SmartStick">Smart Stick</a></li>
 </ul>
